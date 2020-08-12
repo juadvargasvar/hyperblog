@@ -5,3 +5,5 @@ Ambos grandes personas y amantes de la tecnologia.
 Nunca pares de aprender!!!
 
 Me interesa mucho realizar la carrera profesional de Desarrollador Frontend.
+
+El desarrollo de software se base en 4 pilares, analisis, diseño, implementacion y pruebas.
