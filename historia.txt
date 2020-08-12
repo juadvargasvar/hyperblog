@@ -7,3 +7,5 @@ Nunca pares de aprender!!!
 Me interesa mucho realizar la carrera profesional de Desarrollador Frontend.
 
 El desarrollo de software se base en 4 pilares, analisis, diseño, implementacion y pruebas.
+
+Adicional de los pilares, el desarrollo lo termina orientando el cliente con sus respectivos requerimientos.
